@@ -28,4 +28,7 @@ Human Action Recognition using NVIDIA VLM Workflow
 
 
 # Team Members
-- [Varshini](https://github.com/varshinivaddepalli)
+- [Varshini Vaddepalli](https://github.com/varshinivaddepalli)
+- [Akhila Sripada](https://github.com/varshinivaddepalli)
+- [Tanmayi Sri](https://github.com/varshinivaddepalli)
+- [Sparsh Rathi](https://github.com/varshinivaddepalli)
