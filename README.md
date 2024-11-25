@@ -3,11 +3,16 @@ Human Action Detection using NVIDIA NEVA 22B
 
 Demo Video - https://youtu.be/k-hCf09V0yc
 
+
 # Problem Statement 
 Human Action Recognition using NVIDIA VLM Workflow
 
 # Models :
 - [Neva-22b](https://ai.api.nvidia.com/v1/vlm/nvidia/neva-22b)
+- [kosmos-2](https://ai.api.nvidia.com/v1/vlm/microsoft/kosmos-2)
+- [fuyu-8b](https://ai.api.nvidia.com/v1/vlm/adept/fuyu-8b)
+- [paligemma](https://ai.api.nvidia.com/v1/vlm/google/paligemma)
+- [phi-3-vision](https://ai.api.nvidia.com/v1/vlm/microsoft/phi-3-vision-128k-instruct)
 
 # Steps 
 - Installation of Gradio
