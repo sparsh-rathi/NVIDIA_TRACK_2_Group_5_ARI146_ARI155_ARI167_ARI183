@@ -22,6 +22,9 @@ Human Action Recognition using NVIDIA VLM Workflow
 - Calculating Accuracy (actions)
 - Prototype Interface Using Gradio
 
+# Interface Using Gradio
+![](Images/img1.png)
+![](Images/img2.png)
 
 
 # Team Members
